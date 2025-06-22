@@ -3,10 +3,10 @@
 ### File: httpie/cli/argparser.py  
 ###  Function: parse_args()
 
-- ** Author:** @Batuhan Taskaya  
-- ** Last Updated:** November 30th, 2021 at 1:42 PM  
-- ** Commit Hash:** 245cede  
-- ** Commit Message:** "cmd: Implement httpie plugins interface (#1200)"
+-  Author: @Batuhan Taskaya  
+-  Last Updated: November 30th, 2021 at 1:42 PM  
+-  Commit Hash: 245cede  
+-  Commit Message: "cmd: Implement httpie plugins interface (#1200)"
 
 ---
 
